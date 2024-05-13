@@ -1,24 +1,27 @@
 # React + Vite
 
 # Netflix GPT
+
 - Vite React App
 - Configure Tailwind
 - Github Repo
+- Header
+- Login Form
 
 
 
 # Features
+
 - Login/Sign up
-    - login / sign up form
-    - redirects to Browse Page
+  - login / sign up form
+  - redirects to Browse Page
 - Browse (post auth)
-    - Header
-    - Main Movie section
-        - Trailer in BG
-        - Title & Desc
-        - Movie Suggestions
-            - MovieLists * N
-- Netflix GPT
-    - Search Bar
+  - Header
+  - Main Movie section
+    - Trailer in BG
+    - Title & Desc
     - Movie Suggestions
-    
+      - MovieLists \* N
+- Netflix GPT
+  - Search Bar
+  - Movie Suggestions
